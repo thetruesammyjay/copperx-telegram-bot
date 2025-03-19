@@ -1,0 +1,24 @@
+{
+    "name": "copperx-telegram-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot for Copperx Payout",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js",
+        "dev": "tsc && node dist/index.js"
+    },
+    "dependencies": {
+        "@types/dotenv": "^6.1.1",
+        "@types/node": "^22.13.10",
+        "axios": "^1.8.3",
+        "context": "^3.0.33",
+        "dotenv": "^16.4.7",
+        "pusher": "^5.2.0",
+        "pusher-js": "^8.4.0",
+        "telegraf": "^4.16.3",
+        "typescript": "^5.8.2"
+    },
+    "author": "sammyjayisthename",
+    "license": "MIT"
+}
