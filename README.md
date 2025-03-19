@@ -10,7 +10,7 @@ A Telegram bot for managing Copperx payouts, including wallet balances, fund tra
 - Real-time deposit notifications using Pusher.
 
 ## Documentation
-- [Setup Instructions](doc/setup.md)
+- [Setup Instructions](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/docs/setup.md)
 - [API Integration Details](doc/api.md)
 - [Command Reference](doc/commands.md)
 - [Troubleshooting Guide](doc/troubleshooting.md)
