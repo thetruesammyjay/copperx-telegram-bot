@@ -11,10 +11,10 @@ A Telegram bot for managing Copperx payouts, including wallet balances, fund tra
 
 ## Documentation
 - [Setup Instructions](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/docs/setup.md)
-- [API Integration Details](doc/api.md)
-- [Command Reference](doc/commands.md)
-- [Troubleshooting Guide](doc/troubleshooting.md)
-- [Architecture Overview](doc/architecture.md)
+- [API Integration Details](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/api.md)
+- [Command Reference](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/commands.md)
+- [Troubleshooting Guide](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/troubleshooting.md)
+- [Architecture Overview](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/architecture.md)
 
 ## Getting Started
 1. Clone the repository.
@@ -32,4 +32,24 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ## Contact Us
-[🕊️](x.com/thatbwoysammyj)
+[X handle](x.com/thatbwoysammyj)
+
+---
+
+### **Key Updates**
+1. **Bot Link**:
+   - Added the link to the bot: [CopperX Payment Gateway Bot](https://t.me/CopperXPaymentGatewayBot).
+
+2. **Commands**:
+   - Listed all available commands for easy reference.
+
+3. **Setup Instructions**:
+   - Provided clear steps for setting up the bot locally.
+
+4. **Documentation**:
+   - Linked to detailed documentation in the `doc/` folder.
+
+
+---
+
+
